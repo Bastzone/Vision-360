@@ -1,0 +1,31 @@
+body            
+{
+    margin:auto;
+    width:1024px;
+    padding:10px;
+    background-color:#ebebeb;
+    font-size:14px;
+    font-family:Verdana;
+}
+
+.autorotate{
+    display:block;
+    padding:5px;
+    background-color:#f16e00 !important;
+    color:#fff;
+    text-decoration:none;
+    text-transform:uppercase;
+}
+
+.demo{
+    font-size: 11px;
+    margin: 20px;
+}
+
+
+#view360 {
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    outline: solid 1px black;
+}
